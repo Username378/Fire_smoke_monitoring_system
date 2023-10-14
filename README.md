@@ -1,7 +1,7 @@
 Fire_smoke_monitoring_system
 基于yolov8的烟火监测系统  
 =====
-by 孔德睿
+作者：孔德睿
 =====
 1.系统介绍  
 -----
