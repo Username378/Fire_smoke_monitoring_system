@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['fire', 'smoke']
+
+roboflow:
+  workspace: master-dgree
+  project: smoke_fire_1
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/master-dgree/smoke_fire_1/dataset/3
