@@ -1,6 +1,8 @@
 Fire_smoke_monitoring_system
 基于yolov8的烟火监测系统  
 =====
+by 孔德睿
+=====
 1.系统介绍  
 -----
 >（1）基于pyside6的ui设计  
